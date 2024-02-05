@@ -34,7 +34,7 @@ We chose two datasets extracted from the MIMIC-III database. The inclusion and e
 - Sepsis: [The Artificial Intelligence Clinician learns optimal treatment strategies for sepsis in intensive care | Nature Medicine](https://www.nature.com/articles/s41591-018-0213-5) [AIClinician / AIClinician · GitLab](https://gitlab.doc.ic.ac.uk/AIClinician/AIClinician)
   
 
-To demo this code without access to Physionet, please refer to Appendix B of our [paper](https://www.medrxiv.org/content/10.1101/2023.09.26.23296163v2https://www.medrxiv.org/content/10.1101/2023.09.26.23296163v2) to recreate a sample dataset.
+To demo this code without access to Physionet, please refer to Appendix B of our [paper](https://www.medrxiv.org/content/10.1101/2023.09.26.23296163v2) to recreate a sample dataset.
 
 ## Usage
 
