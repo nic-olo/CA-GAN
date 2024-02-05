@@ -4,7 +4,8 @@ This is the repository for the Conditional Augmentation GAN (CA-GAN).
 
 Details about the project can be found in our paper "Generative AI Mitigates Representation Bias Using Synthetic Health Data".
 
-Link to the paper: https://www.medrxiv.org/content/10.1101/2023.09.26.23296163v2https://www.medrxiv.org/content/10.1101/2023.09.26.23296163v2
+Link to the paper: [Generative AI Mitigates Representation Bias Using Synthetic Health Data
+](https://www.medrxiv.org/content/10.1101/2023.09.26.23296163v2)
 
 Link to our previous work on CA-GAN: [[2210.13958] Mitigating Health Data Poverty: Generative Approaches versus Resampling for Time-series Clinical Data](https://arxiv.org/abs/2210.13958)
 
