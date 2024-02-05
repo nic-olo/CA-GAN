@@ -1,0 +1,11 @@
+hydra-core==1.2.0
+matplotlib==3.5.2
+mlflow==1.27.0
+numpy==1.23.0
+omegaconf==2.2.2
+pandas==1.4.3
+scikit_learn==1.1.2
+scipy==1.8.1
+seaborn==0.11.2
+torch==1.12.0
+tqdm==4.64.0

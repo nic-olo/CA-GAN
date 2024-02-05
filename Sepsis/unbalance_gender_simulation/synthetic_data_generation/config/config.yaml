@@ -1,0 +1,22 @@
+G_iter: 5
+batch_size: 128
+curriculum_lengths:
+- 1
+- 2
+- 3
+- 5
+- 7
+- 10
+- 15
+dir:
+  config: config/
+  data: ../data/
+  mlruns: mlruns/
+epochs: 4000
+gp_weight: 10
+max_sequence_length: 15
+num_samples: 3342
+project:
+  data: sepsis
+  name: CA-GAN
+variable_length: false
